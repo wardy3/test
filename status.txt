@@ -63,4 +63,9 @@ Changes to be committed:
 
 	new file:   status.txt
 
+<<<<<<< HEAD
 >>>>>>> doc/doco
+=======
+On branch fea/feature
+nothing to commit, working tree clean
+>>>>>>> fea/feature
