@@ -14,6 +14,25 @@ gv.two
 gv.two-m
 log.txt
 ls.txt
+
+total 52K
+-rw-r--r--+ 1 wardmm 1.1K Oct 22 11:43 1
+-rw-r--r--+ 1 wardmm 1.1K Oct 22 11:43 2
+-rw-r--r--+ 1 wardmm 1.1K Oct 22 11:45 3
+-rw-r--r--+ 1 wardmm 1.1K Oct 22 11:48 4
+-rw-r--r--+ 1 wardmm   29 Oct 22 11:50 file1.txt
+-rw-r--r--+ 1 wardmm   29 Oct 22 11:50 file2.txt
+-rw-r--r--+ 1 wardmm 3.3K Oct 22 09:20 gitversion.txt
+-rwxr-xr-x+ 1 wardmm   77 Oct 22 08:48 GitVersion.yml*
+-rw-r--r--+ 1 wardmm 1012 Oct 22 09:09 gv.master
+-rw-r--r--+ 1 wardmm 1014 Oct 22 09:09 gv.master-m
+-rw-r--r--+ 1 wardmm 1.1K Oct 22 09:09 gv.one
+-rw-r--r--+ 1 wardmm 1.1K Oct 22 09:10 gv.one-m
+-rw-r--r--+ 1 wardmm 1.1K Oct 22 09:09 gv.two
+-rw-r--r--+ 1 wardmm 1.1K Oct 22 09:10 gv.two-m
+-rw-r--r--+ 1 wardmm 1.6K Oct 22 12:47 log.txt
+-rw-r--r--+ 1 wardmm  128 Oct 22 12:48 ls.txt
+
 1
 2
 3
