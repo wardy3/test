@@ -1,5 +1,14 @@
 mode: Mainline
-branches: {}
+branches:
+    feature:
+        regex: "^(fea).*[-/]"
+        increment: Minor
+    hotfix:
+        regex: "^(fix|min|doc).*[-/]"
+        increment: Patch
+    release:
+        regex: "^(rel).*[-/]"
+        increment: Major
 ignore:
   sha: []
 merge-message-formats: {}
