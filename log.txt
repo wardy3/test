@@ -1,14 +1,18 @@
-commit a6ce9e12e60e573a374cab999cc9ab929fe33fcb
+commit 5924a0ca963991cea02a51e1d59fd6879b79ba9b
+Merge: 53e45e2 97278a6
+Author: Wardy <wardy3+github@gmail.com>
+Date:   Tue Oct 22 12:36:10 2019 +1100
+
+    Merge pull request #2 from wardy3/feature/three
+    
+    three
+
+commit 97278a6fea04cf2a461ab4db06ede7ba984adf46
 Author: Michael Wardman <michael.wardman@emc.com>
-Date:   Tue Oct 22 09:09:57 2019 +1100
+Date:   Tue Oct 22 11:52:28 2019 +1100
 
-    two
+    three
 
-commit ef35274f386df99df81d14d469507cc3dba682aa
-Author: Michael Wardman <michael.wardman@emc.com>
-Date:   Tue Oct 22 09:09:53 2019 +1100
-
-    init
 commit 53e45e2db8a5e71ecea1032db0a7bdda55f372ef
 Merge: d59febe 5b49b2b
 Author: Wardy <wardy3+github@gmail.com>
