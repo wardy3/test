@@ -1,77 +1,15 @@
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	status.txt
-
-On branch fea/feature
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	new file:   status.txt
-
-On branch fix/busted
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	new file:   status.txt
-
-On branch master
-Your branch is up to date with 'origin/master'.
-
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	new file:   status.txt
-
-On branch min/minor
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	new file:   status.txt
-
-On branch rel/release-big-one
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	new file:   status.txt
-
 On branch doc/doco
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	new file:   status.txt
-
-On branch doc/doco
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	new file:   status.txt
-
-On branch fea/feature
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	new file:   status.txt
-
-On branch fea/feat2
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
-	modified:   GitVersion.yml
+	modified:   status.txt
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-	status.txt.orig
+	AssemblyInfo.cs
+	GitVersion.yml1
 
 no changes added to commit (use "git add" and/or "git commit -a")
-On branch fea/one
-nothing to commit, working tree clean
-
-On branch fea/new-column
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	GitVersion.yml1
 
 nothing added to commit but untracked files present (use "git add" to track)
 On branch fea/feature
