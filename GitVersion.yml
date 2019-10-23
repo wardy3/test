@@ -2,6 +2,7 @@ mode: Mainline
 branches:
   feature:
     regex: "^(fea)[^-/]*[-/]"
+    increment: Minor
   hotfix:
     regex: "^(fix|min)[^-/]*[-/]"
     increment: Patch
