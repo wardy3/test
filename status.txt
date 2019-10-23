@@ -1,7 +1,71 @@
-On branch min/minor
+
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
 
 	status.txt
 
-nothing added to commit but untracked files present (use "git add" to track)
+On branch fea/feature
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   status.txt
+
+On branch fix/busted
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   status.txt
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   status.txt
+
+On branch min/minor
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   status.txt
+
+On branch rel/release-big-one
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   status.txt
+
+On branch doc/doco
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   status.txt
+
+On branch doc/doco
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   status.txt
+
+On branch fea/feature
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   status.txt
+
+On branch fea/feat2
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   GitVersion.yml
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	status.txt.orig
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch fea/one
+nothing to commit, working tree clean
+
+
