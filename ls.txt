@@ -1,67 +1,14 @@
-1
-2
-3
-4
-file1.txt
-file2.txt
-gitversion.txt
-GitVersion.yml*
-gv.master
-gv.master-m
-gv.one
-gv.one-m
-gv.two
-gv.two-m
-log.txt
-ls.txt
-
-total 52K
--rw-r--r--+ 1 wardmm 1.1K Oct 22 11:43 1
--rw-r--r--+ 1 wardmm 1.1K Oct 22 11:43 2
--rw-r--r--+ 1 wardmm 1.1K Oct 22 11:45 3
--rw-r--r--+ 1 wardmm 1.1K Oct 22 11:48 4
--rw-r--r--+ 1 wardmm   29 Oct 22 11:50 file1.txt
--rw-r--r--+ 1 wardmm   29 Oct 22 11:50 file2.txt
--rw-r--r--+ 1 wardmm 3.3K Oct 22 09:20 gitversion.txt
--rwxr-xr-x+ 1 wardmm   77 Oct 22 08:48 GitVersion.yml*
--rw-r--r--+ 1 wardmm 1012 Oct 22 09:09 gv.master
--rw-r--r--+ 1 wardmm 1014 Oct 22 09:09 gv.master-m
--rw-r--r--+ 1 wardmm 1.1K Oct 22 09:09 gv.one
--rw-r--r--+ 1 wardmm 1.1K Oct 22 09:10 gv.one-m
--rw-r--r--+ 1 wardmm 1.1K Oct 22 09:09 gv.two
--rw-r--r--+ 1 wardmm 1.1K Oct 22 09:10 gv.two-m
--rw-r--r--+ 1 wardmm 1.6K Oct 22 12:47 log.txt
--rw-r--r--+ 1 wardmm  128 Oct 22 12:48 ls.txt
-
-1
-2
-3
-4
-file1.txt
-file2.txt
-gitversion.txt
-GitVersion.yml*
-gv.master
-gv.master-m
-gv.one
-gv.one-m
-gv.two
-gv.two-m
-log.txt
-ls.txt
-1
-2
-3
-4
-file1.txt
-file2.txt
-gitversion.txt
-GitVersion.yml*
-gv.master
-gv.master-m
-gv.one
-gv.one-m
-gv.two
-gv.two-m
-log.txt
-ls.txt
+total 96
+-rw-r--r--  1 wardy  wheel   225B 23 Oct 15:34 GitVersion.yml
+-rwxr-xr-x  1 wardy  wheel   398B 23 Oct 15:05 GitVersion.yml1*
+-rw-r--r--  1 wardy  wheel   274B 23 Oct 13:16 a.txt
+-rw-r--r--  1 wardy  wheel   287B 23 Oct 13:16 b.txt
+-rw-r--r--  1 wardy  wheel   147B 23 Oct 13:16 c1.txt
+-rw-r--r--  1 wardy  wheel   147B 23 Oct 13:16 c2.txt
+-rw-r--r--  1 wardy  wheel   153B 23 Oct 13:16 e.txt
+-rw-r--r--  1 wardy  wheel    29B 23 Oct 13:16 file1.txt
+-rw-r--r--  1 wardy  wheel    29B 23 Oct 13:16 file2.txt
+-rw-r--r--  1 wardy  wheel   1.0K 23 Oct 13:16 gitversion.txt
+-rw-r--r--  1 wardy  wheel   1.5K 23 Oct 13:16 log.txt
+-rw-r--r--  1 wardy  wheel     0B 23 Oct 15:34 ls.txt
+-rw-r--r--  1 wardy  wheel   1.7K 23 Oct 15:31 status.txt
