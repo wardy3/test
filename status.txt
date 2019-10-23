@@ -4,8 +4,6 @@ Untracked files:
 
 	status.txt
 
-nothing added to commit but untracked files present (use "git add" to track)
-
 On branch fea/feature
 Changes to be committed:
   (use "git reset HEAD <file>..." to unstage)
@@ -69,4 +67,5 @@ Untracked files:
 no changes added to commit (use "git add" and/or "git commit -a")
 On branch fea/one
 nothing to commit, working tree clean
+
 
