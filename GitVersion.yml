@@ -2,20 +2,11 @@ mode: Mainline
 branches:
   feature:
     regex: "^(fea)[^-/]*[-/]"
-    increment: Minor
   hotfix:
-    regex: "^(fix|min)[^-/]*[-/]"
-    increment: Patch
+    regex: "^(hotfix|fix|min)[^-/]*[-/]"
     tag: useBranchName
   release:
     regex: "^(rel)[^-/]*[-/]"
-    increment: Major
-  doco:
-    regex: "^(doc)[^-/]*[-/]"
-    increment: None
-    tag: useBranchName
-    source-branches:
-      - master
 ignore:
   sha: []
 merge-message-formats: {}
