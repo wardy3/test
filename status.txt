@@ -80,3 +80,5 @@ Untracked files:
 	status.txt.orig
 
 no changes added to commit (use "git add" and/or "git commit -a")
+On branch fea/one
+nothing to commit, working tree clean
