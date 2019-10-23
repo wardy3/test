@@ -3,7 +3,7 @@ branches:
   feature:
     regex: "^(fea)[^-/]*[-/]"
   hotfix:
-    regex: "^(hotfix|fix|min)[^-/]*[-/]"
+    regex: "^(hotfix|fix|min|doc)[^-/]*[-/]"
     tag: useBranchName
   release:
     regex: "^(rel)[^-/]*[-/]"
